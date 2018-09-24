@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Student_Roster>
+  <Student1>
+    <Name>John</Name>
+    <ID>1</ID>
+    <Reading_Lesson>Blank<Lesson>Fun : John Date Selected : 5/23/2014 12:00:00 AM Start Time: 8:00 End Time: 9:00</Lesson><Lesson>fun : John Date Selected : 5/23/2014 12:00:00 AM Start Time: 9:00 End Time: 10:10</Lesson></Reading_Lesson>
+    <Time>0<Time>01:00</Time><Time>01:10</Time></Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student1>
+  <Student2>
+    <Name>Bill</Name>
+    <ID>2</ID>
+    <Reading_Lesson>Blank<Reading_Lesson>Fun : Bill Date Selected : 5/12/2014 12:00:00 AM Start Time: 8:00 End Time: 9:15</Reading_Lesson><Reading_Lesson>Fun : Bill Date Selected : 5/13/2014 12:00:00 AM Start Time: 8:00 End Time: 9:15</Reading_Lesson><Reading_Lesson>Fun : Bill Date Selected : 5/14/2014 12:00:00 AM Start Time: 8:00 End Time: 9:15</Reading_Lesson><Lesson>Fun : Bill Date Selected : 5/24/2014 12:00:00 AM Start Time: 8:00 End Time: 8:15</Lesson></Reading_Lesson>
+    <Time>0<Time>01:00</Time><Time>01:00</Time><Time>01:00</Time><Time>01:15</Time><Time>01:15</Time><Time>01:15</Time><Time>00:15</Time></Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+    <Reading_Lesson>fun : Bill Date Selected : 5/12/2014 12:00:00 AM Start Time: 8:00 End Time: 9:00</Reading_Lesson>
+    <Reading_Lesson>fun : Bill Date Selected : 5/13/2014 12:00:00 AM Start Time: 8:00 End Time: 9:00</Reading_Lesson>
+    <Reading_Lesson>fun : Bill Date Selected : 5/14/2014 12:00:00 AM Start Time: 8:00 End Time: 9:00</Reading_Lesson>
+  </Student2>
+  <Student3>
+    <Name>Jill</Name>
+    <ID>3</ID>
+    <Reading_Lesson>Blank<Lesson> : Jill Date Selected : 2/8/2017 12:00:00 AM Start Time: 10:30 End Time: 11:30</Lesson></Reading_Lesson>
+    <Time>0<Time>01:00</Time></Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student3>
+  <Student4>
+    <Name>Danny</Name>
+    <ID>4</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student4>
+  <Student5>
+    <Name>Seat Vacent</Name>
+    <ID>5</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student5>
+  <Student6>
+    <Name>Seat Vacent</Name>
+    <ID>6</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student6>
+  <Student7>
+    <Name>Seat Vacent</Name>
+    <ID>7</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student7>
+  <Student8>
+    <Name>Seat Vacent</Name>
+    <ID>8</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student8>
+  <Student9>
+    <Name>Seat Vacent</Name>
+    <ID>9</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student9>
+  <Student10>
+    <Name>Seat Vacent</Name>
+    <ID>10</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student10>
+  <Student11>
+    <Name>Seat Vacent</Name>
+    <ID>11</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student11>
+  <Student12>
+    <Name>Seat Vacent</Name>
+    <ID>12</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student12>
+  <Student13>
+    <Name>Seat Vacent</Name>
+    <ID>13</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student13>
+  <Student14>
+    <Name>Seat Vacent</Name>
+    <ID>14</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student14>
+  <Student15>
+    <Name>Seat Vacent</Name>
+    <ID>15</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student15>
+  <Student16>
+    <Name>Seat Vacent</Name>
+    <ID>16</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student16>
+  <Student17>
+    <Name>Seat Vacent</Name>
+    <ID>17</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student17>
+  <Student18>
+    <Name>Seat Vacent</Name>
+    <ID>18</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student18>
+  <Student19>
+    <Name>Seat Vacent</Name>
+    <ID>19</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student19>
+  <Student20>
+    <Name>Seat Vacent</Name>
+    <ID>20</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student20>
+  <Student21>
+    <Name>Seat Vacent</Name>
+    <ID>21</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student21>
+  <Student22>
+    <Name>Seat Vacent</Name>
+    <ID>22</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student22>
+  <Student23>
+    <Name>Seat Vacent</Name>
+    <ID>23</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student23>
+  <Student24>
+    <Name>Seat Vacent</Name>
+    <ID>24</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student24>
+  <Student25>
+    <Name>Seat Vacent</Name>
+    <ID>25</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student25>
+  <Student26>
+    <Name>Seat Vacent</Name>
+    <ID>26</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student26>
+  <Student27>
+    <Name>Seat Vacent</Name>
+    <ID>27</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student27>
+  <Student28>
+    <Name>Seat Vacent</Name>
+    <ID>28</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student28>
+  <Student29>
+    <Name>Seat Vacent</Name>
+    <ID>29</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student29>
+  <Student30>
+    <Name>Seat Vacent</Name>
+    <ID>30</ID>
+    <Reading_Lesson>Blank</Reading_Lesson>
+    <Time>0</Time>
+    <Math_Lesson>Blank</Math_Lesson>
+    <Time>0</Time>
+    <Social_Studies_Lesson>Blank</Social_Studies_Lesson>
+    <Time>0</Time>
+    <Science_Lesson>Blank</Science_Lesson>
+    <Time>0</Time>
+  </Student30>
+</Student_Roster>
